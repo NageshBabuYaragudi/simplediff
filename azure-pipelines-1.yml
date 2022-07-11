@@ -1,5 +1,5 @@
 # Node.js with React
-- task: Npm@1
+ task: Npm@1
   inputs:
     command: 'install'
 # Build a Node.js project that uses React.
